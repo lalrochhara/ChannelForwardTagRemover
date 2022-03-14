@@ -12,12 +12,12 @@ bot = Client(
 
 
 START_TXT = """
-Hi {}, I'm Forward Tag Remover bot.\n\nForward me some messages, i will remove forward tag from them.\nAlso can do it in channels.
+Chibai {}, Kei hi message forward tag remove tu bot ka ni.\n\nKa hnen ah messages rawn forward la, i message atangin forward tag te ka lo paih ang.\nChannel lam ah pawh min hmang thei tho ania.
 """
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Source Code', url='https://github.com/samadii/ChannelForwardTagRemover'),
+        InlineKeyboardButton('Source Code', url='https://nickstutorial.blogspot.com/search/label/Telegram'),
         ]]
     )
 
